@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 advanced:
   css_class: ""
   css_style: ""
@@ -17,7 +17,7 @@ design:
   background: {}
   view: 2
 subtitle: ""
-title: Recent Posts
+title: Research
 weight: 60
 widget: pages
 ---
